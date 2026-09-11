@@ -1,0 +1,9 @@
+Case/Lab Identifier: SBT-DF203-Lab3
+Student: Kafayat Omolara Animashawun
+Course: SBT-DF203 Basic Networking Skills for Digital Forensics
+Lab: Lab 3 - SYN Flood Pattern Investigation Using TShark
+Environment: Kali Linux VM
+Target: Local Apache service
+Target IP: 127.0.0.1
+Target Port: TCP/80
+Scope: Authorized isolated laboratory environment
